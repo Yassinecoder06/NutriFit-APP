@@ -1,3 +1,4 @@
+# Check the new repo https://github.com/Yassinecoder06/NutriFit-APP1/
 # FitPlan AI - Flutter Fitness & Nutrition Planner
 
 A comprehensive Flutter application for personalized fitness and nutrition planning powered by AI.
